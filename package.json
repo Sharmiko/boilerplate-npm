@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sharmi",
 	"description": "Challang 2 freecodecamp",
+	"keywords": ["challange 3", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
