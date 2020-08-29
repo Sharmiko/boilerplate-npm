@@ -3,6 +3,7 @@
 	"author": "Sharmi",
 	"description": "Challang 2 freecodecamp",
 	"keywords": [ "freecodecamp", "challange 3" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
