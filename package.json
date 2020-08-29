@@ -4,6 +4,7 @@
 	"description": "Challang 2 freecodecamp",
 	"keywords": [ "freecodecamp", "challange 3" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
